@@ -1,9 +1,9 @@
 # bem vindos !!!
 ### oi meu nome é walter
-- sou estudante de sistemas para internet
-- estou me aprimorando para ser um futuro dev
-- minha rede social é @_walter.f no instagram
-- meu linkedin https://www.linkedin.com/in/walter-filho-180353215
+- Sou estudante do curso Sistemas para Internet
+- Estou me aprimorando para ser um futuro dev
+- Minha rede social https://www.instagram.com/_walter.f/
+- Meu linkedin https://www.linkedin.com/in/walter-filho-180353215
 
 <div align="center">
   <a href="https://github.com/Tinhow">
