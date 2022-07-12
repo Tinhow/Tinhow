@@ -1,8 +1,7 @@
 # Bem vindos !!!
-### Olá, meu nome é walter
+### Olá, meu nome é Walter.
 - Sou estudante do curso Sistemas para Internet
 - Estou seguindo para o ramo de desenvolvedor Front-End
-- Meu linkedin https://www.linkedin.com/in/walter-filho-180353215
 
 <div align="center">
   <a href="https://github.com/Tinhow">
