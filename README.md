@@ -1,5 +1,5 @@
-# bem vindos !!!
-### oi meu nome é walter
+# Bem vindos !!!
+### Olá, meu nome é walter
 - Sou estudante do curso Sistemas para Internet
 - Estou seguindo para o ramo de desenvolvedor Front-End
 - Meu linkedin https://www.linkedin.com/in/walter-filho-180353215
