@@ -1,7 +1,7 @@
 # Bem vindos !!!
 ### Olá, meu nome é Walter.
 - Graduando em Sistemas para Internet
-- Estagiário do Asser
+- Estagiário do Assert
 - Front-End Developer
 
 <a href="https://github.com/Tinhow">
