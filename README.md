@@ -1,6 +1,8 @@
 # Bem vindos !!!
 ### Olá, meu nome é Walter.
-- Sou estudante do curso Sistemas para Internet
+- Graduando em Sistemas para Internet
+- Estagiário do Asser
+- Front-End Developer
 
 <a href="https://github.com/Tinhow">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Tinhow&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
