@@ -1,3 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&heigth=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?
+color=00008B&size=35&vcenter=true&width=1000&lines=HELLO+MY+NAME+IS+WALTER+FILHO;+I'M+22+YEARS+OLD; I+FROM+BRAZIL; I+GRADUATED+INTERNET+SYSTEMS;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+
 # Bem vindos !!!
 ### Olá, meu nome é Walter.
 - Graduando em Sistemas para Internet
@@ -25,10 +30,9 @@
   <a href="https://www.instagram.com/_walter.f/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:walterfilho1000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/walter-filho-180353215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-![Snake animation](https://github.com/Tinhow/Tinhow/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tinhow&bg_color=000000&color=ffffff&line=ffffff&point=4559f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
   
