@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&heigth=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&heigth=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+WALTER+FILHO;I'M+22+YEARS+OLD;I'M+FROM+BRAZIL;I'M+GRADUATED+INTERNET+SYSTEM;BE+WELCOME!)](https://git.io/typing-svg)
 
