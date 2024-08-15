@@ -1,7 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&heigth=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+WALTER+FILHO;I'M+23+YEARS+OLD;I'M+FROM+BRAZIL;I'M+GRADUATED+INTERNET+SYSTEM;BE+WELCOME!)](https://git.io/typing-svg)
-
 <a href="https://github.com/Tinhow">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Tinhow&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinhow&layout=compact&langs_count=7&theme=radical"/>
@@ -13,6 +10,8 @@
   <img align="center" alt="walter-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="walter-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="walter-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="walter-VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg">
+
 
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
