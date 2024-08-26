@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&heigth=120&section=header"/>
 <a href="https://github.com/Tinhow">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Tinhow&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinhow&layout=compact&langs_count=7&theme=radical"/>
